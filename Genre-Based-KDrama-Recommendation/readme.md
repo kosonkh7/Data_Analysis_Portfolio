@@ -11,6 +11,7 @@ Skill Set:<br>
 <br>
 Business Understanding:<br>
 MyDramaList는 해외 아시아 드라마 & 영화 평점 플랫폼 사이트이다.
+
 <br>
 Dataset:<br>
 https://www.kaggle.com/datasets/chanoncharuchinda/top-100-korean-drama-mydramalist
