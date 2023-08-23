@@ -6,6 +6,7 @@ Overview: <br>
 2023년 8월 기준 MyDramaList 평점 상위 100개의 국내 드라마를 데이터로 구성하여,<br>
 희망하는 장르의 드라마를 선정하여 줄거리, 주인공 등의 주요 정보를 한 눈에 볼 수 있게 시각적으로 큐레이팅하는 것이 목적이다.<br>
 <br>
+
 Skill Set:<br>
   Python Packages: PIL, textwrap, random, pandas, matplotlib<br>
 <br>
