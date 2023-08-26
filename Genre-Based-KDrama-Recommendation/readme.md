@@ -32,3 +32,6 @@ Modeling and Evaluation:
 Conclusion:
 <br>
 
+![다운로드](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/9c5a4db5-1d2d-480b-93ef-7a70c3dfa85e)
+
+
