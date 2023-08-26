@@ -19,9 +19,9 @@ MyDramaList는 해외 아시아 드라마 & 영화 평점 플랫폼 사이트이
 
 <br>
 Dataset:<br>
-https://www.kaggle.com/datasets/chanoncharuchinda/top-100-korean-drama-mydramalist
-2023년 8월 기준 MyDramaList에서 웹스크랩핑한 데이터이다. 
-![image](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/83374144-a610-44d3-a50e-a8af2653097e)
+https://www.kaggle.com/datasets/chanoncharuchinda/top-100-korean-drama-mydramalist <br>
+2023년 8월 기준 MyDramaList에서 웹스크랩핑한 데이터이다.  <br>
+![image](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/83374144-a610-44d3-a50e-a8af2653097e) <br>
 
 
 Modeling and Evaluation:
