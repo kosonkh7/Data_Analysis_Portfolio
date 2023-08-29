@@ -4,10 +4,12 @@ COVID-19 데이터를 바탕으로 여러 조건 별 통계 데이터를 추출�
 전세계 사망자 수 및 사망율, 국가 별 인구수 대비 확진율, 대륙 별 사망자 수, 주요 국가 확진율 변화 추이를 제시한다. <br>
 
  <br>
+ 
 ## Skill Set:
   Programming Languages: SQL, Tableau <br>
  
  <br>
+ 
 ## Business Understanding:
 COVID-19는 변종 코로나 바이러스인 SARS-CoV-2에 의해 발병한 급성 호흡기 전염병의 일종이다. <br>
 감기처럼 매우 쉽게 전염되는데, 고령층을 상대로 한 치사율도 높은 편인 전례 없는 전염병이라고 할 수 있다. <br>
@@ -17,6 +19,7 @@ COVID-19는 변종 코로나 바이러스인 SARS-CoV-2에 의해 발병한 급�
 3년이 넘는 시간 동안 우리의 일상에 지장을 준 전염병인 만큼, 전 세계의 COVID-19 공식 감염 현황을 알아보고자 한다.  <br>
 
  <br>
+ 
 ## Data Understanding: 
 매일 COVID-19 감염 현황이 새로 갱신되는 데이터이다. <br>
 https://ourworldindata.org/covid-deaths
