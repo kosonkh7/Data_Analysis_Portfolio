@@ -20,7 +20,8 @@ COVID-19는 변종 코로나 바이러스인 SARS-CoV-2에 의해 발병한 급�
 ## Data Understanding: 
 매일 COVID-19 감염 현황이 새로 갱신되는 데이터이다. <br>
 https://ourworldindata.org/covid-deaths
- <br>
+
+<br>
 
 인구 수 대비 가장 높은 확진율을 보이는 국가는 '몰도바'이다. (6.18%) <br>
 ![image](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/2619519d-013f-43eb-b206-e7bf4c44dc21)
