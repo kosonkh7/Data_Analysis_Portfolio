@@ -19,7 +19,7 @@ COVID-19는 변종 코로나 바이러스인 SARS-CoV-2에 의해 발병한 급�
 https://ourworldindata.org/covid-deaths
  <br>
 
-
+## Output
 
 ![대시보드 1](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/1d8918e1-019c-4613-be1c-191668cd777b)
 
