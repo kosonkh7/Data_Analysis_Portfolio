@@ -14,10 +14,11 @@ COVID-19는 변종 코로나 바이러스인 SARS-CoV-2에 의해 발병한 급�
 2023년 8월 현재까지 누적 확진자 수는 6억 9천명을 넘어섰고, 사망자 수는 690만명을 넘어섰다. <br>
 3년이 넘는 시간 동안 우리의 일상에 지장을 준 전염병인 만큼, 전 세계의 COVID-19 공식 감염 현황을 알아보고자 한다.  <br>
  <br>
-## Dataset: 
+## Data Understanding: 
 매일 COVID-19 감염 현황이 새로 갱신되는 데이터이다. <br>
 https://ourworldindata.org/covid-deaths
  <br>
+
 
 
 ![대시보드 1](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/1d8918e1-019c-4613-be1c-191668cd777b)
