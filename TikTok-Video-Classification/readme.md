@@ -1,4 +1,4 @@
-# Google Advanced Data Analytics Professional Certificate 과정 포트폴리오 프로젝트 
+# Google Advanced Data Analytics Professional Certificate Portfolio
 ## Overview:
 
 - 목표: 틱톡 동영상 리포트로부터 수집된 데이터에서 부적절한 정보가 담겼는지 예측하여 찾아내는 것
