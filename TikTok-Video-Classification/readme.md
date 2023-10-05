@@ -19,8 +19,8 @@ Recall 기준 더 우수한 성능을 보인 랜덤포레스트 기반 모델을
 
 
 ## Data Understanding:
+![image](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/e6018413-83dd-413c-89cc-4bb9b6691c17)
 
-![image](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/baa80d85-494b-4387-a098-5c550c4b2fbb)
 
  <br>
  
