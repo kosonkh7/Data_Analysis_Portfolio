@@ -1,8 +1,8 @@
 # Google Advanced Data Analytics Professional Certificate Portfolio
 ## Overview:
 
-- 목표: 틱톡 동영상 리포트로부터 수집된 데이터에서 부적절한 정보가 담겼는지 예측하여 찾아내는 것
-- 목적: opinion(개인적인 의견)과 claim(근거나 출처를 확인할 수 없는 내용을 주장)을 분류하는 모델을 구축한다.
+- 목적: 틱톡 동영상 리포트로부터 수집된 데이터에서 부적절한 정보가 담겼는지 예측하여 찾아내는 것
+- 목표: opinion(개인적인 의견)과 claim(근거나 출처를 확인할 수 없는 내용을 주장)을 분류하는 모델을 구축한다.
 
 랜덤포레스트와 XGBoost 기반 분류 모델을 구축 후 성능 비교하여,  <br>
 
