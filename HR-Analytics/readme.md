@@ -1,8 +1,12 @@
 # Google Advanced Data Analytics Professional Certificate Portfolio
 ## Overview
-목적: 직원들의 이직률(Turnover Rate)을 감소시킨다. 
 
-목표: 직원들의 이직 여부를 예측하는 모델을 구축하고, 이직 원인을 밝혀내어 직원들이 유지(Retention)할 방안을 제안한다.
+- 목적: 직원들의 이직률(Turnover Rate)을 감소시킨다. 
+- 목표: 직원들의 이직 여부를 예측하는 모델을 구축하고, 이직 원인을 밝혀내어 직원들이 유지(Retention)할 방안을 제안한다.
+
+로지스틱 회귀, 의사결정나무, 랜덤포레스트, XGBoost, (+ RUSBoost) 모델을 활용하여 직원의 이직 여부를 예측하는 분류 모델을 구축하였고,
+
+가장 높은 분류 성능을 보인 XGBoost 모델을 바탕으로 Feature Importance를 확인하였을 때, 근무 환경 만족도, 재직 기간, 프로젝트 수, 성과 평가, 평균 근무 시간 순으로 이직에 큰 영향을 미치는 것을 확인하였다. 
 
 ## Business Understanding
 Salifort Motors는 가상의 대체 에너지 자동차 제조 기업이다.
