@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/placements/problem?h_r=internal-search
+-- https://www.hackerrank.com/challenges/placements/problem?h_r=internal-search
 
 SELECT Students.Name
 FROM Friends
