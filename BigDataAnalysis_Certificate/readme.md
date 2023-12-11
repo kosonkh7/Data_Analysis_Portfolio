@@ -11,8 +11,8 @@ DataManim: https://www.datamanim.com/intro.html <br>
 - pandas
 - numpy
 - sklearn
-- scipy.stats
-- statsmodels.formula.api
+- <b>scipy.stats</b>
+- <b>statsmodels.formula.api</b>
 
 ## 데이터 수집 작업
 
