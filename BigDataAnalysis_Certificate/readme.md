@@ -5,6 +5,9 @@
 DataManim: https://www.datamanim.com/intro.html <br>
 빅데이터분석기사 실기 체험 환경: https://dataq.goorm.io/exam/3/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1 <br>
 
+![image](https://github.com/kosonkh7/Data_Analysis_Portfolio/assets/83086978/f2dab1da-236a-4127-8ab8-fed428ff02d3)
+
+
 ## 주요 활용 라이브러리
 
 * 활용 가능한 라이브러리 목록은 실기 체험 환경에서 미리 확인하여 숙지해갈 것 
