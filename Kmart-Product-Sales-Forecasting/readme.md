@@ -91,8 +91,15 @@ grocery 제품인 것을 고려할 때 수확시기와 맞물려 판매량이 �
 44번 상점에서만 판매하는 것과 수확과 맞물린다는 것을 고려할 때 미네소타 특산품이지 않을까 추측됨. <br>
 
 # Modeling and Evaluation
+모델 이미지 출처 [https://wikidocs.net/60762]
+
+![image](https://github.com/user-attachments/assets/861179f5-b579-4d39-b07d-6090acf7f909)
 
 
+![image](https://github.com/user-attachments/assets/23bb223c-9a25-4190-aa84-f9b17a5c7f3f)
+
+
+![image](https://github.com/user-attachments/assets/3bd35447-2017-4351-8923-e12518ed0ec5)
 
 
 
