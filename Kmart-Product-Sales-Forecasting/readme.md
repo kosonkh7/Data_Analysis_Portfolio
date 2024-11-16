@@ -4,8 +4,6 @@
 목표: 특정 상품 판매 데이터를 바탕으로, AI 기반 판매량 예측 시계열 모델을 구축하고 성능을 고도화 한다.   <br>
 
 # Business Understanding
-유통 매장에서 상품별 재고문제 해결 필요로 한다. <br>
-
 K-Mart는 미국 전역에 매장을 보유했던 유통회사이다. <br>
 
 ![미네소타 kmart 폐업](https://github.com/user-attachments/assets/45d05ccd-55e6-45b9-9ee9-be4aaf287728)
@@ -19,6 +17,28 @@ K-Mart는 미국 전역에 매장을 보유했던 유통회사이다. <br>
 • 예를 들어 리드타임이 2일 걸리는 상품은, 5월20일 저녁 10시에 주문하면, 5월22일 새벽(매장 오픈 전)에 입고되어 당일 판매를 할 수 있다. <br>
 
 # Data Understanding
+활용 데이터: 2014년 1월 1일 ~ 2017년 3월 31일 기준 <br>
+매장 데이터 / 상품 데이터 / 판매 데이터 / 고객 방문 수 데이터 <br>
+유가 데이터 / 날씨 데이터 (추가) <br>
+
+![image](https://github.com/user-attachments/assets/2ddc5b31-cfc8-471d-8a7d-f097f9091561)
+
+분석 대상: 가장 매출이 높은 미네소타주 세인트폴 매장을 대상으로, 
+3가지 주요 품목{3번: 음료수, 12번: 우유, 42번: 곡물}의 수요를 예측하고자 한다. <br>
+
+![image](https://github.com/user-attachments/assets/64b8152b-1386-41d6-ae1c-fb70b5d16749)
+
+## 1) 대상 상품 별 판매량 추이
+![image](https://github.com/user-attachments/assets/206ef3ba-0801-483c-a0db-232a44e11691)
+
+3번과 12번 상품의 경우 1월 1일 판매량이 없음. 추후 데이터 처리 필요
+
+3번과 12번 상품은 전체 데이터로 볼 때는 경향성을 찾기 힘듦.
+
+42번 상품은 등락이 어느정도 보이고, 그 기간이 4~11월로 수확이 잘되는 시기라고 생각이 듦.
+
+## 2) 대상 상품의 동일 카테고리의 상품별 판매량 추이
+
 
 
 # Modeling and Evaluation
