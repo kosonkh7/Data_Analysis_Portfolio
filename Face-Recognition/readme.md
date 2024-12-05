@@ -8,6 +8,7 @@
 
 # Data Understanding
 활용 데이터:  <br>
+https://www.kaggle.com/datasets/jessicali9530/lfw-dataset
 
 # Modeling and Evaluation
 
