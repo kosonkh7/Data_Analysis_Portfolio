@@ -28,5 +28,12 @@
 - LSTM, GRU 기반 판매량 예측 모델링, 성능 평가
 - 예측 모델 기준 재고회전율 / 기회손실 분석
 
+## [HR 데이터 기반 직원 이직 여부 예측 모델링](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/HR-Analytics)
+주요 스택: Python Sklearn(XGBoost, Random Forest, RUSBoost 등)
+정리:
+- 직원들의 이직 여부 예측하는 모델을 구축하고,
+- 이직 원인을 밝혀내어 직원들이 유지(Retention)할 방안을 제안 (데이터 분석 및 시각화까지)
+- 4가지 분류 모델의 성능 비교, 가장 높은 성능 보인 XGBoost 모델을 바탕으로 Feature Importance를 확인
+- 근무 환경 만족도, 재직 기간, 프로젝트 수, 성과 평가, 평균 근무 시간 순으로 이직에 큰 영향을 미치는 것을 확인
 
 
