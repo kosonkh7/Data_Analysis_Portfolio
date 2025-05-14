@@ -7,7 +7,7 @@
 
 프로젝트 제목을 클릭하면 상세 설명(폴더 경로의 리드미 파일)로 연결 됩니다.
 
-## RVC 음성 변환 프레임워크를 활용한 AI 커버곡 생성
+## [RVC 음성 변환 프레임워크를 활용한 AI 커버곡 생성](https://github.com/kosonkh7/RVC_Voice_Conversion)
 주요 스택: [RVC 프레임워크](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI), [UVR](https://github.com/Anjok07/ultimatevocalremovergui)
 <br> 정리: <br>
 - VITS 기반 음성 변환 프레임워크 RVC를 활용하여 듣기 좋은 AI 커버곡을 생성
@@ -33,6 +33,8 @@
 - 방문자 수, 계절성, 유가, 날씨 데이터 등과 타겟 데이터(판매량) 사이의 상관관계 분석 및 시각화
 - LSTM, GRU 기반 판매량 예측 모델링, 성능 평가
 - 예측 모델 기준 재고회전율 / 기회손실 분석
+
+## [Yolo 기반 내 얼굴 객체 탐지 모델링](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/Face-Recognition)
 
 ## [HR 데이터 기반 직원 이직 여부 예측 모델링](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/HR-Analytics)
 주요 스택: Python Sklearn(XGBoost, Random Forest, RUSBoost 등)
