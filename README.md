@@ -35,6 +35,7 @@
 - 예측 모델 기준 재고회전율 / 기회손실 분석
 
 ## 🙎‍♂️[Yolo 기반 내 얼굴 객체 탐지 모델링](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/Face-Recognition)
+문서 작업 중 ~ing
 
 ## 📈[HR 데이터 기반 직원 이직 여부 예측 모델링](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/HR-Analytics)
 주요 스택: Python, Sklearn(XGBoost, Random Forest, RUSBoost 등)
@@ -43,6 +44,12 @@
 - 이직 원인을 밝혀내어 직원들이 유지(Retention)할 방안을 제안 (데이터 분석 및 시각화까지)
 - 4가지 분류 모델의 성능 비교, 가장 높은 성능 보인 XGBoost 모델을 바탕으로 Feature Importance를 확인
 - 근무 환경 만족도, 재직 기간, 프로젝트 수, 성과 평가, 평균 근무 시간 순으로 이직에 큰 영향을 미치는 것을 확인
+
+## 🧠EEG를 이용한 사회적/비사회적 공동 관심이 작업 기억에 미치는 영향 분석
+주요 스택: MNE-Python
+<br> 정리: <br>
+- EEG 데이터 전처리 (Denoising, Detrending, Bandpass Filter, Epoching, ICA)
+- 실험 조건 별 뇌파 활성화 정도 및 위치 분석 (MNE 활용 뇌 구조도 위 시각화)
 
 ## ⚡[1D-CNN 기반 심근경색 진단 모델링](https://github.com/kosonkh7/ECG-Myocardial-Infarction-Detection)
 주요 스택: Tensorflow, Sklearn
