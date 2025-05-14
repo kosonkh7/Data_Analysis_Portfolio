@@ -5,7 +5,7 @@
 
 주로 **Overview** -> **Business Understanding** -> **Data Understanding** -> **Modeling and Evaluation** -> **Conclusion** 순으로 작성하였습니다.
 
-**프로젝트 제목을 클릭하면 상세 설명**(폴더 경로의 리드미 파일)**로 연결** 됩니다.
+**프로젝트 '제목'을 클릭하면 상세 설명**(폴더 경로의 리드미 파일)**로 연결** 됩니다.
 
 ## 🎧[RVC 음성 변환 프레임워크를 활용한 AI 커버곡 생성](https://github.com/kosonkh7/RVC_Voice_Conversion)
 주요 스택: [RVC 프레임워크](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI), [UVR](https://github.com/Anjok07/ultimatevocalremovergui)
