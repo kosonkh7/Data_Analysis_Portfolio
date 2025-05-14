@@ -50,6 +50,12 @@
 - PTB-XL Dataset(심전도 데이터) 시각화 및 분류 데이터셋 구축
 - 1D-CNN 모델링 및 분류 성능 분석
 
+## 🎬[2023 MyDramaList 드라마 추천](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/Genre-Based-KDrama-Recommendation)
+주요 스택: Python(pandas, matplotlib), BeautifulSoup
+<br> 정리: <br>
+- MyDramaList 평점 & 선호 장르 기준 드라마 추천
+- 드라마 추천 결과 반영을 위한 이미지 웹크롤링 경험
+
 ## 🥇[빅데이터 분석기사 실습 파일](https://github.com/kosonkh7/Data_Analysis_Portfolio/tree/main/BigDataAnalysis_Certificate)
 정리: <br>
 - 작업형 1: Pandas, Numpy 활용한 데이터 처리
